@@ -1,0 +1,14 @@
+.weak {
+  font-weight: 300;
+  color: red;
+}
+
+.strong {
+  font-weight: 600;
+  color: lightgreen;
+}
+
+.very-strong {
+  font-weight: 900;
+  color: darkgreen;
+}
